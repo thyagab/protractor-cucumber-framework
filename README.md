@@ -5,7 +5,9 @@ Protractor Cucumber Framework
 
 This framework was originally part of [angular/protractor](https://github.com/angular/protractor) and
 is now a separate module to decouple [cucumber.js](https://github.com/cucumber/cucumber-js).
+
 *This is a fork of original master of RepublicServicesRepository/protractor-cucumber-framework*
+--------------------------------------------------------------------------------------------------
 Install
 -------
 
